@@ -25,5 +25,5 @@ jobs:
           python app.py << EOF 
           option = "10"
           a = 5
-          b = 1
+          b = 4
           EOF
