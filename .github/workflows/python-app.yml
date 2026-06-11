@@ -22,8 +22,8 @@ jobs:
           pip install -r requirements.txt 
       - name: Ejecutar aplicación 
         run: | 
-          python app.py << EOF 
-          option = "10"
-          a = 5
-          b = 4
+          python app.py << EOF
+          1
+          5
+          10
           EOF
