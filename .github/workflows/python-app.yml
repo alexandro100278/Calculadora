@@ -23,7 +23,7 @@ jobs:
       - name: Ejecutar aplicación 
         run: | 
           python app.py << EOF 
-          10 
-          5 
-          1 
+          option = "10"
+          a = 5
+          b = 1
           EOF
