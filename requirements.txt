@@ -1,1 +1,2 @@
 # No se requieren librerías externas para este proyecto.
+libreria_inventada
